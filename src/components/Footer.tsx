@@ -9,7 +9,7 @@ export const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="text-center">
           <p className="text-foreground/70 text-sm">
-            &copy; {currentYear} Aayush Sharma. All rights reserved.
+            &copy; {currentYear} Aman Singhal. All rights reserved.
           </p>
           
           <p className="text-foreground/60 text-xs mt-2 flex items-center justify-center">

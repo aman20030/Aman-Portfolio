@@ -2,7 +2,7 @@
 export const portfolioData = {
   "basics": {
     "personalInfo": {
-      "name": "Aayush Sharma",
+      "name": "Aman Singhal",
       "headline": "Aspiring Software Developer | Web Development Enthusiast | Passionate About Open-Source & AI | Data Enthusiast | Open Source Contributor",
       "summary": "I am a passionate Computer Science and Engineering (AI) student with a keen interest in web development, artificial intelligence, and open-source contributions. With hands-on experience in React, Tailwind CSS, TypeScript, and database management, I enjoy building modern, user-friendly web applications that solve real-world problems. Beyond coding, I actively contribute to open-source projects, mentor peers, and participate in technical initiatives that foster learning and collaboration. My goal is to continuously enhance my technical skills, work on impactful projects, and contribute meaningfully to the tech community.Always eager to learn and explore new technologies, I strive to bridge the gap between academic knowledge and real-world applications, preparing myself for a successful career in technology. 🚀",
       "image": "https://github.com/aayushsh2003/AIClassOf26/blob/main/rbi_aayush.png?raw=true"
@@ -249,7 +249,7 @@ export const portfolioData = {
       "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/Hand_writing_converter.jpeg?raw=true"
     },
     {
-      "title": "Aayush Sharma Linktree",
+      "title": "Aman Singhal Linktree",
       "description": "A personal Linktree webpage that consolidates my web development projects, resume, and contributions. It provides direct access to my React, Next.js, and MERN stack portfolios, as well as key projects such as a Weather App and a Financial Smart Accounting replica.",
       "objectives": [
         "To create a centralized hub for showcasing my work and achievements.",

@@ -41,7 +41,7 @@ export const Navbar = () => {
     >
       <div className="container mx-auto px-4 py-3 md:py-4 flex justify-between items-center">
         <a href="#home" className="text-xl font-bold gradient-text">
-          Aayush Sharma
+          Aman Singhal
         </a>
 
         {/* Desktop Navigation */}
