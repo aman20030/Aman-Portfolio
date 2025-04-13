@@ -14,13 +14,13 @@ export const portfolioData = {
     },
     "contactInfo": {
       "email": "amansinghal2027@gmail.com",
-      "phone": "+91-",
+      "phone": "+91",
       "website": "https://amansinghal-portfolio.netlify.app/"
     },
     "profiles": {
-      "linkedin": "https://www.linkedin.com/in/aayush-sharma-a44062299/",
+      "linkedin": "https://www.linkedin.com/in/aman-singhal-a8594b255",
       "GitHub": "https://github.com/aman20030",
-      "hackerrank": "https://www.hackerrank.com/profile/aayushsharma4437",
+      "geeksforgeeks": "https://www.geeksforgeeks.org/user/amansinghhzr/",
       "hackerearth": "",
       "codechef": "",
       "leetcode": "https://leetcode.com/u/Amansi/"
@@ -62,27 +62,27 @@ export const portfolioData = {
   },
   "experience": [
     {
-        "jobTitle": "Trainee - SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
+        "jobTitle": "Full Stack developer",
         "company": {
-            "name": "R-CAT",
-            "url": "https://rcat.rajasthan.gov.in/content/raj/rcat/en/home.html"
+            "name": "Mission minded foundation",
+            "url": " "
         },
         "location": {
             "city": "Jaipur",
             "country": "India"
         },
         "duration": {
-            "start": "2025-01",
-            "end": "2025-02"
+            "start": "2024-07",
+            "end": "2024-08"
         },
         "responsibilities": [
-            "Completed hands-on training in SAS Visual Business Analytics using SAS Viya.",
-            "Developed analytical solutions using SAS for data-driven decision-making.",
-            "Gained expertise in data visualization, business analytics, and reporting.",
-            "Worked with SAS Viya to analyze datasets and generate business insights."
+            "Build responsive user interfaces using HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.",
+            "Develop and maintain server-side logic using languages like Node.js, Python, Java, Ruby, or PHP.",
+            "Design and interact with databases (SQL: MySQL, PostgreSQL; NoSQL: MongoDB, Firebase).",
+            "Deploy applications on cloud services (AWS, Azure, Google Cloud, or Vercel/Netlify for frontend)."
         ],
         "technologiesUsed": [
-            "SAS", "SAS Visual Analytics", "SAS Viya", "Business Analytics"
+            "React", "Express.js", "Node.js", "Mongodb"
         ]
     }
   ],
@@ -115,7 +115,7 @@ export const portfolioData = {
         "honors": [
         ],
       "extracurricularActivities": [
-        "Technical Lead",
+        "Technical Participation",
         "Open Source Contributor"
       ]
         
@@ -123,33 +123,33 @@ export const portfolioData = {
   ],
   "projects": [
     {
-      "title": "Student Management System",
-      "description": "A Python-based system to manage student records, including adding, editing, deleting, and searching by name or roll number.",
+      "title": "credit-card-checker",
+      "description": "verify the authenticity of card numbers, a standard method used to detect errors in identification numbers. Similar tools, such as the Credit Card Validator, provide client-side validation without transmitting data to external servers, ensuring user data privacy",
       "objectives": [
-        "To create an efficient student record-keeping application.",
-        "To implement a user-friendly GUI using Tkinter."
+        "To develop a web-based credit card number validation tool that utilizes the Luhn algorithm.",
+        " verify card number authenticity in real-time, providing users with a secure and efficient way to check credit card formats without storing or transmitting sensitive data.."
       ],
       "outcomes": [
-        "Developed a fully functional database-driven management system.",
-        "Improved record organization and retrieval efficiency."
+        "Improved user trust by ensuring 100% client-side processing—no data is sent or stored externally.",
+        "Strengthened understanding of algorithm integration and front-end validation logic."
       ],
       "url": "",
       "technologiesUsed": [ "MySQL"],
-      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/Student_Management.jpeg?raw=true"
+      "image": " "
     }
   ],
 
   "certifications": [
       {
-        "title": "The Joy of Computing Using Python",
+        "title": "",
         "issuingOrganization": {
-          "name": "Indian Institute of Technology, Madras",
-          "url": "https://nptel.ac.in/"
+          "name": "",
+          "url": ""
         },
-        "description": "NPTEL certification in Python programming.",
-        "issueDate": "2023-01",
-        "credentialID": "NPTEL23CS20533790773",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/The%20Joy%20of%20Computing%20using%20Python.jpg?raw=true"
+        "description": "",
+        "issueDate": "",
+        "credentialID": "",
+        "image": ""
       }
   ],
 
@@ -186,11 +186,11 @@ export const portfolioData = {
   // ],
   "honorsAndAwards": [
     {
-      "title": "Lok Sabha Election 2024 - First Time Voter",
-      "issuer": "CHIEF ELECTORAL OFFICER, RAJASTHAN",
-      "date": "April 2024",
-      "description": "Excited to receive my voter certificate, a tangible reminder of my civic duty. I am committed to responsible citizenship and will cherish this certificate as a symbol of my first step into the world of active participation in our democracy.",
-      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Awards/LOK_SABHA_ELECTION.jpeg?raw=true"
+      "title": "",
+      "issuer": "",
+      "date": "",
+      "description": "",
+      "image": ""
     }
   ],
   "languages": ["Hindi", "English"]
